@@ -19,17 +19,17 @@ To do :
     * Rainfall Sensor
     * Test components for robustness (light and temperature)
 
-  * PCB :
-    * Validate each component footprint ;
-    * Generate the Gcode file to the CNC ;
-    * Test the board ;
-    * Integrate the component.
+* PCB :
+  * Validate each component footprint ;
+  * Generate the Gcode file to the CNC ;
+  * Test the board ;
+  * Integrate the component.
 
-  * BOX :
-    * Take the real dimension of the component ;
-    * Make the modification on the 3d file ;
-    * Find a way to make the box waterproof
+* BOX :
+  * Take the real dimension of the component ;
+  * Make the modification on the 3d file ;
+  * Find a way to make the box waterproof
 
-  * FarmOs
-    * Update Charts and auto refresh page
-    * Improve the charts
+* FarmOs
+  * Update Charts and auto refresh page
+  * Improve the charts
