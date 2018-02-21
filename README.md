@@ -1,11 +1,11 @@
 # OpenSensors
 Open sensors for soil measurement
 
-* This project was designed to achieve 3 aims
+This project was designed to achieve 3 aims :
 
-An affordable multi-sensor unit with wireless mesh connectivity
-Open source code base with integration to the open source farmos.org platform (farm asset management system)
-Integration with the GROW Platform
+*  An affordable multi-sensor unit with wireless mesh connectivity
+*  Open source code base with integration to the open source farmos.org platform (farm asset management system)
+*  Integration with the GROW Platform
 
 Project development to date:
 
